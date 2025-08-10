@@ -1,0 +1,8 @@
+/* #calendar {
+  display: grid;
+  width: 100%;
+  grid-template-areas: "";            
+  grid-template-columns: repeat(7, 1fr);
+  grid-template-rows: repeat(5, auto);
+  gap: 20px;
+} */
